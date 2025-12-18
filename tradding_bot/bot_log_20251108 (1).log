@@ -1,0 +1,4 @@
+[2025-11-08 17:21:42] INFO - Starting Binance Testnet Bot
+[2025-11-08 17:21:43] INFO - GET /v3/time -> 200 | {"serverTime":1762602703415}
+[2025-11-08 17:21:44] INFO - GET /v3/account -> 200 | {"makerCommission":0,"takerCommission":0,"buyerCommission":0,"sellerCommission":0,"commissionRates":{"maker":"0.00000000","taker":"0.00000000","buyer":"0.00000000","seller":"0.00000000"},"canTrade":tr
+[2025-11-08 17:21:45] INFO - POST /v3/order -> 200 | {"symbol":"BTCUSDT","orderId":579678,"orderListId":-1,"clientOrderId":"lLwqtIjmbMNSycMdhyL88u","transactTime":1762602704948,"price":"0.00000000","origQty":"0.00100000","executedQty":"0.00100000","orig
